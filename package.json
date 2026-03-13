@@ -1,0 +1,9 @@
+{
+  "name": "show-name",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple POST and GET name greeting app",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
